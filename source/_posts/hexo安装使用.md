@@ -1,7 +1,8 @@
 ---
 title: hexo安装使用
 date: 2023-06-02 19:55:03
-tags: hexo
+tags: 安装
+categories: hexo
 thumbnail: ../images/hexo安装使用/wallhaven-wqery6-light.webp
 cover: 
 ---

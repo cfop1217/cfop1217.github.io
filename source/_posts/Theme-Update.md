@@ -3,6 +3,7 @@ title: Theme Update
 excerpt: false
 date: 2023-06-26 15:15:30
 tags: ThemeUpdate
+categories: hexo
 thumbnail: ../images/Theme-Update/47690335362.jpeg
 cover: 
 ---

@@ -2,7 +2,7 @@
 title: Typora测试
 date: 2023-06-02 16:26:45
 tags: [Typora,文章测试]
-categories: 测试
+categories: hexo
 thumbnail: "/images/Typora测试/FvzvnPvacAAR7od.jpg"
 cover: 
 excerpt: "添加摘要excerpt，这里是文章摘要，测试文章样式"
@@ -18,7 +18,7 @@ tags标签多个用“|”隔开，默认最多三个，categories同tags。
 
 多个tags标记没有解决，不知道如何表示，用什么符号隔开，不是“|”。
 
-不会就搜索，tags 后面这样写就行了：tags: [标签1,标签2,标签3]
+不会就搜索，tags 后面这样写就行了：tags: [标签1,标签2,标签3]，注意此处的逗号为英文格式。
 
 ## 文章首页图示
 

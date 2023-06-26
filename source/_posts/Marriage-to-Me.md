@@ -2,7 +2,8 @@
 title: Marriage to Me
 excerpt: false
 date: 2023-06-22 16:22:20
-tags: 
+tags: marriage
+categories: thinking
 thumbnail: /images/Marriage-to-Me/FzH7W9aakAYDrC0.jpg
 cover: 
 ---

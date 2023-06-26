@@ -2,7 +2,7 @@
 title: 修改scaffold
 excerpt: false
 date: 2023-06-06 09:40:26
-tags: 文章
+tags: [主题更新,文章样式]
 thumbnail: /images/blog picture/wallhaven-wqery6-light.webp
 cover: 
 ---

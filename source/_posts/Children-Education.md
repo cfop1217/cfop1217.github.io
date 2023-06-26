@@ -3,6 +3,7 @@ title: How should we educate children?
 excerpt: false
 date: 2023-06-18 20:39:14
 tags: education
+categories: thinking
 thumbnail: /images/Children-Education/Fx7fx3lWYAAhq01.jpg
 cover: 
 ---

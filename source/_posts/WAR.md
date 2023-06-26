@@ -3,6 +3,7 @@ title: What is the Meaning of War?
 excerpt: false
 date: 2023-06-22 09:50:23
 tags: war
+categories: thinking
 thumbnail: /images/WAR/ed3e91fb2ef90572807350928b3e6005.jpg
 cover: 
 ---

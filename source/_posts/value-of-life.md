@@ -2,7 +2,8 @@
 title: The Value of Life
 excerpt: false
 date: 2023-06-06 15:31:59
-tags: 感想
+tags: life
+categories: thinking
 thumbnail: /images/value-of-life/value.jpg
 cover:
 ---
