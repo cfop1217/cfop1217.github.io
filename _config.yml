@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://zhw4616.github.io
+url: https://zhw4616.github.io #根据作者回答更改
+## root: '/test/' #根据作者回答更改，并添加此行。作者成这样可以解决，并且图片加载的问题已修复代码，试一下看看可否。还是不行。
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

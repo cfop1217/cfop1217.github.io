@@ -2,7 +2,7 @@
 title: Perseus with the Head of Medusa
 date: 2023-06-05 15:44:19
 tags: daily
-categories: knowledge
+categories: interesting
 thumbnail: /images/Perseus-with-the-Head-of-Medusa/perseus with the head of medusa.jpg
 cover: 
 ---
