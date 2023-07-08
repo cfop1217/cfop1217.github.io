@@ -21,11 +21,11 @@ info:
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 defaults:
   # Favicon
-  favicon: /images/blog picture/privateinvestocat.jpg #站点图标标题栏上显示的图标
+  favicon: /images/blog/privateinvestocat.jpg #站点图标标题栏上显示的图标
   # Site logo 
-  logo: /images/blog picture/privateinvestocat.jpg #网页图标 网页左上角主题图标
+  logo: /images/blog/privateinvestocat.jpg #网页图标 网页左上角主题图标
   # Site avatar
-  avatar: /images/blog picture/privateinvestocat.jpg #头像图标
+  avatar: /images/blog/privateinvestocat.jpg #头像图标
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -102,8 +102,8 @@ home_banner:
   style: static # static or fixed
   # Home banner image
   image: 
-    light: /images/wallhaven-wqery6-light.webp # light mode
-    dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    light: /images/blog/wallhaven-wqery6-light.webp # light mode
+    dark: /images/blog/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
   title: What's Past Is Prologue. 
   # Home banner subtitle
@@ -177,9 +177,9 @@ navbar:
     About: 
       icon: fa-regular fa-user
       submenus:
-        # Me: /about
+        Me: https://about.me/liu.yang
         Github: https://github.com/ # https://github.com/EvanNotFound/hexo-theme-redefine
-        Blog: https://zhw4616.github.io/bloghome
+        BlogHome: https://zhw4616.github.io/bloghome
         Tags: /tags
         Categories: /categories
         # Friends: /friends
@@ -262,8 +262,8 @@ articles:
   # 这里没有设置成功，之前的auto是false
   author_label: 
     enable: true # Whether to enable
-    auto: true # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3...
-    list: ["MVP++"]
+    auto: false  # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3... 将此处改为false即可显示自定义标签
+    list: [MVP++]
   # Code block settings
   code_block:
     copy: true # Whether to enable code block copy button
@@ -294,7 +294,7 @@ articles:
     # Max number of articles to display mobile
     mobile_limit: 2
     # Placeholder image
-    placeholder: /images/wallhaven-wqery6-light.webp
+    placeholder: /images/blog/wallhaven-wqery6-light.webp
     # Skip directory
     skip_dirs: []
 # ARTICLE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
