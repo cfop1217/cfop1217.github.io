@@ -2,7 +2,8 @@
 title: Daily Vocabulary
 excerpt: false
 date: 2023-06-13 15:29:19
-tags: vocabulary
+tags: daily
+categories: vocabulary
 thumbnail: /images/Daily-Vocabulary/123.jpg
 cover: 
 ---

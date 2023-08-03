@@ -2,8 +2,8 @@
 title: Theme Update
 excerpt: false
 date: 2023-06-26 15:15:30
-tags: [redefine,themeupdate]
-categories: hexo
+tags: [theme,update]
+categories: redefine
 thumbnail: ../images/Theme-Update/47690335362.jpeg
 cover: 
 ---

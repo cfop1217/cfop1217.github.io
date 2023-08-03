@@ -1,7 +1,7 @@
 ---
 title: second artical
 date: 2023-05-29 20:30:41
-tags: 测试文章
+tags: [Typora,文章测试]
 categories: hexo
 typora-root-url: ./..
 thumbnail: "/images/second-artical/FvAxsc6aAAEA0tU.jpg"

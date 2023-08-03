@@ -2,8 +2,8 @@
 title: Notes笔记模块
 excerpt: false
 date: 2023-07-08 09:39:48
-tags: [笔记,提示]
-categories: 文章测试
+tags: [笔记,提示,文章测试]
+categories: redefine
 thumbnail: ../images/Notes笔记模块/Fzd4vAIXgAEQrgj.jpg
 cover:
 ---

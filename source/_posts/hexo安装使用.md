@@ -1,5 +1,5 @@
 ---
-title: hexo安装使用
+title: Hexo安装使用
 date: 2023-06-02 19:55:03
 tags: 安装
 categories: hexo
@@ -9,13 +9,11 @@ cover:
 
 #
 
-
-
-## 安装
+### 安装
 
 安装 Hexo 只需几分钟时间。
 
-### 安装前提
+#### 安装前提
 
 安装 Hexo 相当简单，只需要先安装下列应用程序即可：
 
@@ -24,15 +22,15 @@ cover:
 
 如果您的电脑中尚未安装所需要的程序，请根据以下安装指示完成安装。
 
-### 安装 Git
+#### 安装 Git
 
 - Windows：下载并安装 [git](https://git-scm.com/download/win).
 
-### 安装 Node.js
+#### 安装 Node.js
 
 Node.js 为大多数平台提供了官方的 [安装程序](https://nodejs.org/zh-cn/download/)。使用 Node.js 官方安装程序时，请确保勾选 **Add to PATH** 选项（默认已勾选）。
 
-### 安装 Hexo
+#### 安装 Hexo
 
 所有必备的应用程序安装完成后，即可使用 npm 安装 Hexo。
 
@@ -68,15 +66,13 @@ $ npm install
 └── themes
 ```
 
-### _config.yml
+#### _config.yml
 
 网站的 [配置](https://hexo.io/zh-cn/docs/configuration) 信息，您可以在此配置大部分的参数。
 
-# 服务器
+### 服务器
 
-
-
-## [hexo-server](https://github.com/hexojs/hexo-server)
+#### [hexo-server](https://github.com/hexojs/hexo-server)
 
 Hexo 3.0 把服务器独立成了个别模块，您必须先安装 [hexo-server](https://github.com/hexojs/hexo-server) 才能使用。
 
@@ -96,7 +92,7 @@ $ hexo server
 $ hexo server -p 5000
 ```
 
-### 静态模式
+#### 静态模式
 
 在静态模式下，服务器只处理 `public` 文件夹内的文件，而不会处理文件变动，在执行时，您应该先自行执行 `hexo generate`，此模式通常用于生产环境（production mode）下。
 
@@ -104,9 +100,7 @@ $ hexo server -p 5000
 $ hexo server -s
 ```
 
-# 生成文件
-
-
+### 生成文件
 
 使用 Hexo 生成静态文件快速而且简单。
 
@@ -114,7 +108,7 @@ $ hexo server -s
 $ hexo generate
 ```
 
-### 监视文件变动
+#### 监视文件变动
 
 Hexo 能够监视文件变动并立即重新生成静态文件，在生成时会比对文件的 SHA1 checksum，只有变动的文件才会写入。
 
@@ -122,7 +116,7 @@ Hexo 能够监视文件变动并立即重新生成静态文件，在生成时会
 $ hexo generate --watch
 ```
 
-### 完成后部署
+#### 完成后部署
 
 您可执行下列的其中一个命令，让 Hexo 在生成完毕后自动部署网站，两个命令的作用是相同的。
 
@@ -131,9 +125,7 @@ $ hexo generate --deploy
 $ hexo deploy --generate
 ```
 
-# 在 GitHub Pages 上部署 Hexo
-
-## 一键部署
+### GitHub Pages 一键部署
 
 以下教学改编自 [一键部署](https://hexo.io/zh-cn/docs/one-command-deployment)。
 
@@ -156,21 +148,15 @@ deploy:
 
 [SHH帮助文档]: https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/about-ssh
 
-
-
 执行 `hexo clean && hexo deploy` 。
 
 浏览 `<GitHub 用户名>.github.io` 检查你的网站能否运作。
 
+### 帮助文档
 
-
-## 相关帮助文档
-
-[Hexo文档]: https://hexo.io/zh-cn/docs/	"Hexo文档"
-[GItHub文档]: https://docs.github.com/zh	"GItHub文档"
-[Redefine主题文档]: https://redefine-docs.ohevan.com/	"Redefine主题文档"
-
-
+[Hexo文档]: https://hexo.io/zh-cn/docs/
+[GItHub文档]: https://docs.github.com/zh
+[Redefine主题文档]: https://redefine-docs.ohevan.com/
 
 
 

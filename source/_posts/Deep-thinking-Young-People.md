@@ -3,6 +3,7 @@ title: Deep-thinking Young People
 excerpt: false
 date: 2023-06-26 09:25:37
 tags: thinking
+categories: thinking
 thumbnail: /images/Deep-thinking-Young-People/哈勃望远镜观测到一颗新生恒星的爆发.png
 cover: 
 ---

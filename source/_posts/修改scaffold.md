@@ -3,7 +3,7 @@ title: 修改scaffold
 excerpt: false
 date: 2023-06-06 09:40:26
 tags: [文章默认项,图片显示,categories问题]
-categories: hexo
+categories: redefine
 thumbnail: /images/blog/wallhaven-wqery6-light.webp
 cover: 
 ---
