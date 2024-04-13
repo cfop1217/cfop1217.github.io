@@ -181,9 +181,9 @@ navbar:
     About: 
       icon: fa-regular fa-user
       submenus:
-        Me: https://about.me/liu.yang
+        Me: # https://about.me/liu.yang
         Github: https://github.com/ # https://github.com/EvanNotFound/hexo-theme-redefine
-        BlogHome: https://zhw4616.github.io/bloghome
+        BlogHome: # https://zhw4616.github.io/bloghome
         Tags: /tags
         Categories: /categories
         # Friends: /friends

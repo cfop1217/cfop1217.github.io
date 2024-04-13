@@ -18,8 +18,6 @@ As for my educational thoughts, I initially wanted to write about educational ph
 
 Without **being obsessed with** academic qualifications, when it comes to my child's education, I **am more inclined to** help them become a healthy adult and allow them to choose the life they want. The ability to choose one's desired path in life is already a challenging task that requires a lot of personal effort. **As the saying goes**, you must complete the necessary journey before you can walk the path you desire. For my child, I hope they can develop an independent personality, **possess appropriate values**, and have the ability to **think critically**, analyze problems, and find solutions.
 
-![](../images/Children-Education/Fx7fx3lWYAAhq01.jpg)
-
 Let's talk about learning and how to guide children in their learning process. First, it's important to help children gradually understand what learning is, why they need to learn, and how to learn. I am somewhat against directly teaching children specific methods. Although they may quickly solve problems using the methods taught to them, it **deprives** them of critical thinking. Instead, let children experience the process of learning, from not knowing to understanding, from unfamiliarity to familiarity. Let them feel how they can gradually master specific knowledge through effort and reflection, and learn how to learn. Learning is a long-term process, and learning how to learn is much more important than learning **specific knowledge**.
 
 Now, let's talk about handling relationships with others around them. Children begin to interact with a **collective** when they go from home to school, so it's important for them to learn how to get along with others. Currently, it seems difficult for first-grade children to **navigate** their relationships with others. My own child is lacking in this aspect, and I haven't seen any child who can handle relationships well in the first grade. This is a physiological limitation. As parents, we should not be too impatient. We need to give children space, time, and enough patience. However, being patient with children doesn't mean we can ignore their behavior. We should guide them when appropriate, manage them during important moments, and even discipline them if necessary. From my child, I can clearly sense a strong self-centeredness, where everything and everyone must revolve around them, or else they become unhappy or even throw **tantrums**. This is a common **trait** among children at this age stage - being self-centered and lacking emotional control. Regarding this, proper guidance is **crucial**. We need to be patient with children and avoid blaming or denying them when they exhibit behavior that adults may not understand. Instead, we should gradually guide them to learn the correct methods of interacting with others and their surrounding environment.
@@ -28,11 +26,9 @@ Lastly, let's talk about the aspect of companionship, which is something I haven
 
 As for the specific education and guidance for the child, I will summarize it while providing companionship.
 
-
+![](../images/Children-Education/Fx7fx3lWYAAhq01.jpg)
 
 #### 子供をどのように教育すべきですか？
-
-
 
 ### Vocabulary
 
@@ -115,3 +111,26 @@ trait （人的个性的）特征，特点；遗传特征；一点，少许
 19.**conducive** 有助的，有益的
 
 / kənˈduːsɪv /
+
+------
+
+#### 到底该如何教育孩子
+
+子供をどのように教育すべきですか？
+ (Kodomo o dono yō ni kyōiku subeki desu ka?)
+
+最近总想到孩子的教育问题，结合前两天去孩子学校的事，得好好考虑一下孩子的教育问题了。
+
+一年级已经快结束了，如果单从孩子学习的情况来看并不理想，如果和同样年龄的自己相比，孩子是明显落后的。拼音、汉字、口算等都没有一个很好的表现，对于学习的热情，读书的渴望也不尽人意。处理问题和关系也是毫无头绪，真真切切一个6岁的孩子。
+
+我的教育想法，本来想写教育理念，觉着根本配不上这个理念，就简单阐述一下自己对教育的看法。我是一名所谓“985”、“211”大学毕业的研究生，一路走到现在，学历对我最大的帮助并不是让我多么优秀，多么成功，而是让我认清自己理解自己接受自己，感恩身边的人和事，珍惜眼下的生活。从另一个侧面讲，我不认为自己是成功人士，学历并没有如大部分期待一样，逆天改命，或者让我从此步入人生的巅峰，在社会面前学历的作用很是有限。从我个人和身边同学的经历来看，我倒也没有把学历看的那么重要，但也从来不会轻视学历。
+
+没有对学历的执着，在孩子教育方面我更倾向于让孩子健康成人，然后让他自己选择想要的人生。能选择自己想要的人生本身就是一件很难的事，需要自己前期付出很多的努力，就像那句话说的，你必须走完必须走的路，才能走你想走的路。对于孩子，我更期望他能有独立的人格，适当的三观，以及能够独立思考、分析问题、解决问题。
+
+先说说学习，如何引导孩子的学习。首先，要让孩子从一开始就慢慢理解学习，学习是什么，为什么学习，如何学习。我比较反对直接教孩子一些具体的方法，虽然他用你教的方法可以快速的做出题目，但是这也剥夺了了他的思考。让孩子感受学习的过程，从不会到会，从不熟悉到熟悉，感受自己通过努力和思考，一步一步掌握具体的知识，一点一点学会如何学习。学习是一个长期的过程，学会学习比学习具体知识要重要的多。
+
+再说说处理周围的关系，孩子从家里到学校就已经开始走向集体，学会跟集体相处很重要。目前看，一年级的孩子很难处理与其他人的关系，从我孩子身上这一点是非常欠缺的，我也没有发现哪个孩子能在一年级就能很好的处理和别人的关系，这是生理条件限制的。我们家长不能太着急，要给孩子空间和时间，给他们足够的耐心。给孩子耐心，并不代表我们可以不管不问，在合适的情况下要去引导，重要的时刻要去管理甚至是惩戒。从我孩子身上，我能直观的感受到孩子自我中心意识非常强烈，所有的人和事都得围着他转，都得以他为中心，不然他就会不开心甚至发脾气。这也是这个年龄阶段孩子普遍的共性，以自我为中心，然后情绪控制能力弱，或者说无法控制自己的情绪。关于这一点，真的要做好引导，给孩子耐心，不能在孩子表现出一些大人无法理解的言行后去责备否定，而是循序渐进的引导他们学会做出正确的方法去和别人和周围环境相处。
+
+最后说说陪伴，这方面我做的并不好，我是一个比较独立的人，有自己的生活理念，选择自己想要的生活模式，每天我也有自己想做的事。我总觉着孩子成长是一个长期的过程，没有必要介入太多，甚至我曾一度想着就放任孩子自由发展，到了一定年龄就能自己领悟到。现在看，这种放手并不是很明智，因为孩子毕竟是孩子，他的成长和发展肯定是受外界环境影响的，如果这个环境很好，那么他就能很好的被环境孕育培养，可是目前的环境并不友好，如果把孩子放任在这样的环境下，孩子能自己走出来吗。目前的答案就是，不能。而且，很可能因为家长的放手，把引导教育孩子的权力交给了别人，交给了环境，你能确保别人比你教的好，你能确保环境比你的陪伴还要好。这也是我决定参与进来的原因，如果避免不了还在受外界环境的影响，那么不如让我来影响，我不认为别人能比我做的还好，我不认为这个环境适合让孩子得到好的教育和影响。
+
+关于孩子具体的教育和引导，边陪伴便总结。
