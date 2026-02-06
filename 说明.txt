@@ -9,3 +9,35 @@ MasterKey
 DEbe6tkZM18uPrZQI5QDjQhf
 
 https://llgjc1.com/#/register?code=gFkkC6Bf
+
+20260226
+1. 查找旧配置
+在你的 _config.yml 文件中，找到类似下面这一行：
+
+YAML
+open_graph: true
+或者
+
+YAML
+open_graph:
+  enable: true
+2. 修改为新格式
+根据警告提示，将其修改为嵌套在 global 层级下的格式。请注意缩进（YAML 对空格非常敏感）：
+
+YAML
+global:
+  open_graph:
+    enable: true
+    image: /path/to/your/default/image.jpg  # 可选：设置默认分享图
+    description: 你的网站描述                 # 可选：设置默认分享描述
+3. 常见情况说明
+如果你没有特定的图片或描述需求：只需保留 enable: true 即可，其他两行可以不写。
+
+如果你的 _config.yml 中已经有 global: 标签：请直接在 global: 下方添加 open_graph 部分，不要重复创建 global: 标签。
+
+4. 保存并重新编译
+修改完成后，回到终端依次运行：
+
+Bash
+hexo clean
+hexo g

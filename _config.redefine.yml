@@ -74,7 +74,9 @@ global:
   # Whether to enable single page experience (using swup). See https://swup.js.org/. similar to pjax
   single_page: true
   # Whether to enable open graph
-  open_graph: true
+  #open_graph: true
+  open_graph:
+    enable: true
   # Google Analytics
   google_analytics:
     enable: false # Whether to enable Google Analytics
