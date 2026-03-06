@@ -104,5 +104,5 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repo: git@github.com:zhw4616/zhw4616.github.io.git
-    branch: main
+    repo: git@github-cfop:cfop1217/cfop1217.github.io.git   #git@github.com:zhw4616/zhw4616.github.io.git
+    branch: gh-pages  #main
